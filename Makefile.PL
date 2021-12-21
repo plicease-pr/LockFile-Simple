@@ -15,5 +15,6 @@ WriteMakefile(
     'PMLIBDIRS'		=> [ 'Lock' ],
 	'dist'			=> { SUFFIX => 'gz', COMPRESS => 'gzip -f' },
 	'clean'			=> {'FILES' => '*%'},
+	LICENSE			=> 'perl',
 );
 

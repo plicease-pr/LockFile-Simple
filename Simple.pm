@@ -873,5 +873,21 @@ Raphael Manfredi F<E<lt>Raphael_Manfredi@pobox.comE<gt>>
 
 File::Flock(3).
 
+=head1 COPYRIGHT AND LICENSE
+
+This software is copyright (c) 1998-1999 Raphael Manfredi and copyright (c)
+2000,2007 John Vromans
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the Perl Artistic License or the GNU
+General Public License as published by the Free Software
+Foundation; either version 2 of the License, or (at your option)
+any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+Artistic License for more details.
+
 =cut
 
